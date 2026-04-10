@@ -1,12 +1,12 @@
 {
-  "name": "arslan-pairing-site",
+  "name": "mani-pairing-site",
   "version": "0.0.1",
-  "description": "A multi functional whatsapp bot Web paircode Created By ArslanMD Official.",
-  "main": "arslan.js",
+  "description": "A multi functional whatsapp bot Web paircode Created By Usman X Official.",
+  "main": "mani.js",
   "scripts": {
-    "start": "pm2 start arslan.js --deep-monitoring --attach --name Arslan-MD",
-    "stop": "pm2 stop Arslan-MD",
-    "restart": "pm2 restart Arslan-MD"
+    "start": "pm2 start mani.js --deep-monitoring --attach --name MANI-MD-BOT",
+    "stop": "pm2 stop MANI-MD-BOT",
+    "restart": "pm2 restart MANI-MD-BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:wileys",              
