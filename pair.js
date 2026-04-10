@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
         
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ ✨ MANI X MD 🔷
+║ ✨ MANI-MD-BOT 🔷
 ║ ✨ MANI X OFFICIAL🔷
 ╚════════════════════╝
 
