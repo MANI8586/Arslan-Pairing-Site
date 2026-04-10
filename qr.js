@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 				   let Arslan_MD_TEXT = `
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ ✨MANI X MD🔷
+║ ✨MANI-MD-BOT🔷
 ║ ✨MANI X OFFICIAL🔷
 ╚════════════════════╝
 
@@ -69,7 +69,7 @@ router.get('/', async (req, res) => {
 ---
 
 ╔════════════════════◇
-║『 YOU'VE CHOSEN MANI X MD 』
+║『 YOU'VE CHOSEN MANI-MD-BOT 』
 ║ -Set the session ID in Heroku:
 ║ - SESSION_ID: 
 ╚════════════════════╝
